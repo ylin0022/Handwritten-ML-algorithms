@@ -1,4 +1,4 @@
-# Handwritten-ML-algorithms  
+# README
 Hand-written ML algorithms: KNN, GNB, LR
 -------------
 #### Programming Language  
@@ -9,7 +9,7 @@ Pytorch(only for CNN_main.ipynb)
 #### Instructions
 * The submission contains all the 5000 labels, following the assignment instruction.   
 * KNN is the one with highest accuracy, and the output file is predicted by KNN   
-* There are some other files using GNB, LR, SVM in the subfile for comparison:  
+* CNN is for reference with existing libraries(of courese) with Pytorch  
 1.Find n_components for PCA.ipynb  
 2.KNN_main.ipynb  
 3.GNB_main.ipynb  
@@ -31,12 +31,10 @@ with h5py.File('../Input/datatest_PCA.h5','r') as H:
 
 -------------
 **Several results**
-|Classifier|Accuracy|
-|---|---:|
-|KNN|85.25%|
-|GNB|44.55%|
-|LR|83.40%|
-|SVN|0.20%|
+* KNN: 85.25%
+* GNB: 44.55%
+* LR: 83.40%
+* SVM: 0.20%
 
 -------------
 --------Created by Yucong and Yang on 2018/10/01
