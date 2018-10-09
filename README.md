@@ -1,12 +1,13 @@
 # README
-Hand-written ML algorithms: KNN, GNB, LR
+10-categories classification Machine Learning algorithms: KNN, GNB, LR
 -------------
 #### Programming Language  
-Python3.6.5  
+Python 3.6.5  
 Jupyter Notebook  
 Pytorch(only for CNN_main.ipynb)  
 
 #### Instructions
+* The data used is part of fashion-mnist containing a training set of 30000 examples and a test set of 5000 examples.
 * The submission contains all the 5000 labels, following the assignment instruction.   
 * KNN is the one with highest accuracy, and the output file is predicted by KNN   
 * CNN is for reference with existing libraries(of courese) with Pytorch  
