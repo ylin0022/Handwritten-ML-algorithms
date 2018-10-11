@@ -1,5 +1,6 @@
 # README
 10-categories classification Machine Learning algorithms: KNN, GNB, LR
+dataset: FASHION-MNIST
 -------------
 #### Programming Language  
 Python 3.6.5  
