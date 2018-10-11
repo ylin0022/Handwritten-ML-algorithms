@@ -1,5 +1,5 @@
 # README
-10-categories classification Machine Learning algorithms: KNN, GNB, LR
+10-categories classification Machine Learning algorithms: KNN, GNB, LR  
 dataset: FASHION-MNIST
 -------------
 #### Programming Language  
